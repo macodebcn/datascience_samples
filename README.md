@@ -1,9 +1,9 @@
-👋 Hi, I’m @macodebcn
-👀 I’m interested in data science
-🌱 I’m currently learning data science 😎
-⚡ Fun fact: there is no fun fact!
-Here you'll find some samples of my journey as a data scientist!
-Currently studying while taking care of my little son ❤️
+- 👋 Hi, I’m @macodebcn
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning data science 😎
+- ⚡ Fun fact: there is no fun fact!
+- Here you'll find some samples of my journey as a data scientist!
+- Currently studying while taking care of my little son ❤️
 
 About this repository:
 
