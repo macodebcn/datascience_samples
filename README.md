@@ -8,11 +8,13 @@
 About this repository:
 
 # datascience_samples
-- Aquí encontrarás algunos ejercicios en Python que he llevado a cabo durante mis estudios
+- Aquí encontrarás algunos ejercicios en Python que he llevado a cabo durante mis estudios de ciencia de datos
+- Es posible que incluya ejercicios traídos de otras plataformas como Kaggle
 - Espero que te sirvan de ayuda
 - Ten en cuenta que puede haber fallos que no haya detectado!!
   
 # datascience_samples
-- Here you will find some Python exercises that I have carried out during my studies
+- Here you will find some Python exercises that I have carried out during my data science studies
+- It is possible that I include exercises brought from other platforms like Kaggle
 - I hope they will be of help to you
 - Keep in mind that there may be errors that I have not detected!!
