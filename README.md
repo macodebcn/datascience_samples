@@ -8,6 +8,8 @@
 About this repository:
 
 ⚠️ Notebook Display Issue The notebook 02_visualization & more.ipynb may not render properly on GitHub due to missing metadata in "metadata.widgets". This causes an "Invalid Notebook" error when trying to view it online. However, the notebook can be downloaded and opened locally in Jupyter, Google Colab, or Kaggle to view its content as-is — even without running the code.
+
+
 ⚠️ Problema al visualizar el notebook  02_visualization & more.ipynb puede no mostrarse correctamente en GitHub por un error de metadatos en "metadata.widgets". Esto genera el mensaje "Invalid Notebook" al intentar verlo en línea. Sin embargo, puedes descargarlo y abrirlo localmente en Jupyter, Google Colab o Kaggle para ver su contenido tal cual está — incluso sin ejecutar el código.
 
 # datascience_samples
